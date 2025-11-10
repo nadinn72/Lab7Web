@@ -210,5 +210,16 @@ do {
 } while ($i<=10);
 ?>
 ```
-## Hasil:
+## Hasil
 <img width="800" height="245" alt="image" src="https://github.com/user-attachments/assets/21db6985-bedf-4c7a-9d83-515386ff3a72" />
+
+
+# Pertanyaan dan Tugas
+
+**Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitungumur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.**
+
+**Berikut adalah hasil outputnya:**
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/363a5e50-34d4-4abc-8d3d-7715ed82a1bf" />
+
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/638e3d52-1ada-4f27-b68f-526739bcd97c" />
+
